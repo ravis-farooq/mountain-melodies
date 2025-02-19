@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const directoryPath = './assets/imgs/template'; // Path to the images directory
+const directoryPath = './assets/imgs/page/pages'; // Path to the images directory
 const projectPath = '.'; // Path to the project directory
 
 function getAllFiles(dirPath, arrayOfFiles) {
